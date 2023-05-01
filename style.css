@@ -716,7 +716,10 @@ footer .wrapper {
     justify-content: center;
     align-items: center;
   }
-
+  a {
+    text-decoration: none;
+    color: black;
+  }
   .hero .pattern-bg {
     position: absolute;
     top: 50%;
